@@ -1,0 +1,14 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.guides.bracketPairs": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 18,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "files.autoSave": "onFocusChange",
+  "workbench.startupEditor": "none",
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false
+}
